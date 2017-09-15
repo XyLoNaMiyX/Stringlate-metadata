@@ -1,0 +1,3 @@
+<br/>Fetches remote GitHub repositories containing the source code for Android applications downloading the available `strings.xml` files in them for you to translate the strings to any other locale, in order to help the authors localize their applications into other languages.
+<br/>
+<br/>For more information and examples please see the <a href="https://github.com/LonamiWebs/Stringlate/blob/HEAD/README.md">README.md</a> file on the website!
